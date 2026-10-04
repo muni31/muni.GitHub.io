@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Muni31</title>
+<style>
+body{font-family:Arial; text-align:center; padding:40px; background:#f5f5f5}
+.card{background:white; padding:30px; border-radius:15px; max-width:400px; margin:auto; box-shadow:0 4px 10px rgba(0,0,0,0.1)}
+a{color:#0066ff; text-decoration:none; font-weight:bold}
+</style>
+</head>
+<body>
+<div class="card">
+<h1>Hi, I'm Muni31 👋</h1>
+<p>I'm learning web development and GitHub.</p>
+<p>This is my first website!</p>
+<br>
+<a href="https://github.com/muni31">My GitHub</a>
+</div>
+</body>
+</html>
